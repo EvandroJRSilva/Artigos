@@ -1,4 +1,4 @@
-# Coisas simples que fazer muita diferença depois
+# Coisas simples que fazem muita diferença depois
 
 Lembro-me bem quando comecei a estudar Java, no início do curso de Computação, e me deparei com uma frase mais ou menos assim: "como adicionar Java ao path do Windows".
 

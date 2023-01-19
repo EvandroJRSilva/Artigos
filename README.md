@@ -4,9 +4,9 @@ Este repositório contém vários artigos, científicos ou didáticos, escritos 
 
 Lista de artigos em Português Brasileiro:
 
-* [Coisas simples que fazer muita diferença depois](Coisas_simples.md)
-* [Programadores e detetives](Programadores_e_detetives.md)
-* [O setlocale não funciona, e agora?](Setlocale.md)
+* [Coisas simples que fazer muita diferença depois](Português/Coisas_simples.md)
+* [Programadores e detetives](Português/Programadores_e_detetives.md)
+* [O setlocale não funciona, e agora?](Português/Setlocale.md)
 
 O objetivo é que todos os artigos tenham suas versões em Inglês e Português.
 
@@ -18,6 +18,6 @@ This repository holds several articles, scientifc or didactic, written by Evandr
 
 List of articles in English:
 
-* ...
+* [Simple things that make a big difference later](English/Simple_things.md)
 
 The aim is to publicise all articles in both Portuguese and English.
