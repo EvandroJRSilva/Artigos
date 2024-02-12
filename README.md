@@ -7,6 +7,7 @@ Lista de artigos em Português Brasileiro:
 * [Coisas simples que fazer muita diferença depois](Português/Coisas_simples.md)
 * [Programadores e detetives](Português/Programadores_e_detetives.md)
 * [O setlocale não funciona, e agora?](Português/Setlocale.md)
+* [Tradução do RFC 4291](Português/RFC%204291_Tradução.pdf)
 
 O objetivo é que todos os artigos tenham suas versões em Inglês e Português.
 
